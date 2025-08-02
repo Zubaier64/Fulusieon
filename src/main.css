@@ -1,0 +1,118 @@
+body {
+  background: #2e2e2e;
+  margin: 0;
+  font-family: monospace;
+  font-size: large;
+  font-style: normal;
+}
+
+.button {
+  width: 10em;
+  height: 2em;
+  border-radius: 0.3em;
+  background-color: #04AA6D; /* Green */
+  color: white;
+  text-align: center;
+  display: inline-block;
+  font-size: 16px;
+}
+
+.NMButton {
+  width: 10em;
+  height: 2.5em;
+}
+
+.navbar {
+  background: #6b6b6b;
+  padding-left: 2em;
+  padding-right: 2em;
+  padding-top: 1em;
+}
+.navbar .logo {
+  text-decoration: none;
+  font-weight: bold;
+  color: white;
+  font-size: 1.2em;
+}
+.navbar .logo span {
+  color: #1400f3;
+}
+.navbar .container {
+  display: flex;
+  place-content: space-between;
+}
+
+.container {
+  display: flex;
+}
+
+.pfp-section {
+  padding: 0.3em;
+}
+.pfp-section .right-col {
+  padding-left: 1em;
+  font-size: xx-large;
+}
+
+.hotel-section {
+  padding: 0.3em;
+}
+.hotel-section .mid-col {
+  padding-left: 1em;
+  font-size: xx-large;
+}
+.hotel-section .right-col {
+  padding-left: 1em;
+  font-size: xx-large;
+}
+
+.casino-section {
+  padding: 0.3em;
+}
+.casino-section .mid-col {
+  padding-left: 1em;
+  font-size: xx-large;
+}
+.casino-section .right-col {
+  padding-top: 1em;
+  padding-left: 1em;
+  font-size: xx-large;
+}
+
+.investor-section {
+  padding: 0.3em;
+}
+.investor-section .mid-col {
+  padding-left: 1em;
+  font-size: xx-large;
+}
+.investor-section .right-col {
+  padding-left: 1em;
+  font-size: xx-large;
+}
+
+.taxes-section {
+  padding-left: 0.3em;
+}
+.taxes-section .left-col {
+  padding-top: 1.2em;
+}
+.taxes-section .mid-col {
+  padding-left: 1em;
+  font-size: xx-large;
+}
+.taxes-section .right-col {
+  padding-left: 1em;
+  font-size: xx-large;
+}
+
+.maintaince-section {
+  padding: 0.3em;
+}
+.maintaince-section .left-col {
+  padding-top: 1.5em;
+}
+.maintaince-section .right-col {
+  padding-left: 1em;
+  font-size: xx-large;
+}/*# sourceMappingURL=main.css.map */
